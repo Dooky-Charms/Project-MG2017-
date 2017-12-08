@@ -1,0 +1,27 @@
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    transition: all .1s ease-in;
+}
+
+a {
+    transition: all .1s ease-in;
+}
+
+a:hover{
+    
+}
+
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}

@@ -1,0 +1,6 @@
+[24-Nov-2017 13:35:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/assessment/header.php on line 30
+[24-Nov-2017 13:35:24 UTC] PHP Stack trace:
+[24-Nov-2017 13:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/assessment/index.php:0
+[24-Nov-2017 13:36:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/assessment/header.php on line 30
+[24-Nov-2017 13:36:55 UTC] PHP Stack trace:
+[24-Nov-2017 13:36:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/assessment/index.php:0
